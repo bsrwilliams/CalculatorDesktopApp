@@ -3,7 +3,7 @@ A Desktop application of a Calculator.
 
 Download & Try!
 
-Download the JAR file and calculate your problems away.
+Download the JAR file (/Calculator) and calculate your problems away.
 
 Description:
 
